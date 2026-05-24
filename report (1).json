@@ -1,0 +1,22 @@
+{
+    "candidate_name": "Rameka Sen",
+    "email": "ramekasen@gmail.com",
+    "skills_found": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Pandas",
+        "Data Analysis"
+    ],
+    "matched_skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Pandas",
+        "Data Analysis"
+    ],
+    "experience": 3,
+    "match_score": 100.0,
+    "recommendation": "Strong Hire",
+    "generated_at": "2026-05-24 16:59:59.659402"
+}
